@@ -1,0 +1,59 @@
+---
+title: "Assignment 1: Introduction"
+author: "Juanying Huangfu"
+output: pdf_document
+---
+
+## OVERVIEW
+
+This exercise accompanies the introductory material in Environmental Data Analytics. 
+
+## Directions
+1.  Rename this file `<FirstLast>_A01_Introduction.Rmd` (replacing `<FirstLast>` with your first and last name).
+2.  Change "Student Name" on line 3 (above) with your name.
+4.  Be sure to **answer the questions** in this assignment document.
+5.  When you have completed the assignment, **Knit** the text and code into a single PDF file.
+6.  After Knitting, submit the completed exercise (PDF file) to the appropriate assignment section on Canvas.
+
+7.  Initial here to acknowledge that you did not use AI at all in completing this assignment: _Juanying Huangfu__
+
+---
+
+## 1) Concept and Discussion Questions
+Enter answers to the questions just below the >Answer: prompt.
+
+1. What are your previous experiences with data analytics, R, and Git? Include both formal and informal training.
+
+> Answer: I have some prior experience with R from both undergraduate and graduate coursework. During my undergraduate studies, I learned the basics of R programming, including working with R Markdown, data manipulation, basic statistical analysis, and visualization. I mainly practiced using built-in datasets such as iris, diamonds, economics, and flights.
+In my first semester of graduate study, I also used R for a course project on meta-analysis, where I worked with a secondary dataset compiled from figures and results reported in published studies. In that project, I used R for data cleaning, analysis, and visualization.
+My experience with Git is still relatively limited, but I have begun using GitHub for course repositories and version control, and I am becoming more familiar with basic workflows such as pulling, committing, and pushing changes.
+
+2. Are there any components of the course about which you feel confident?
+
+> Answer: I feel relatively confident with basic programming logic and coding fundamentals, such as understanding how scripts are structured, following workflows, and reading and modifying existing code. I am also comfortable using R for standard data analysis and visualization tasks once the data are in a clean, tabular format.
+
+3. Are there any components of the course about which you feel apprehensive?
+
+> Answer: I feel a bit apprehensive about working with environmental datasets in R, especially tasks related to cleaning, exploring, and managing more complex environmental data. I have not previously used R extensively for environmental data analysis, so I see this as an area where I will need to learn and practice more.
+
+4. Describe a dataset you have used in the past. Explain whether it was a primary or secondary dataset. 
+
+> Answer: I have worked with several built-in R datasets, such as iris, diamonds, economics, and flights, mainly for learning data analysis and visualization techniques. I have also worked with a literature-based dataset for a meta-analysis project, which compiled numerical information extracted from figures and tables in published studies within a defined topic and time period.
+All of these were secondary datasets, as they were collected and prepared by others for purposes different from my own research, rather than being generated through my own data collection such as surveys, interviews, or experiments.
+
+5. Would you describe the day of the month as a nominal, ordinal, interval, or ratio number? Explain your reasoning.
+
+> Answer: The day of the month is best described as an interval variable. The values are ordered and the differences between them are meaningful (for example, the difference between day 5 and day 10 is the same as between day 15 and day 20). However, there is no true zero point, and ratios are not meaningful (for example, day 20 is not “twice” day 10).
+
+---
+
+## 2) GitHub
+
+Provide a link below to your forked course repository in GitHub. Make sure you have pulled all recent changes from the course repository and that you have updated your course README file, committed those changes, and pushed them to your GitHub account. 
+
+> Answer: https://github.com/jessica-hf9/EDE_Spring2026
+
+---
+
+## 3) Knitting
+When you have completed this document, click the `knit` button.This should produce a PDF copy of your markdown document. Submit this PDF to Canvas 
